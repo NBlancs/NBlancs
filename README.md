@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noel Jhumel Blanco</h1>
 <h3 align="center">A passionate student learning how to code</h3>
 
-- 📫 How to reach me **noelblanco@369@gmail.com**
+- 📫 How to reach me **noelblanco369@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
