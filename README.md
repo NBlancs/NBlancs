@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noel Jhumel Blanco</h1>
 <h3 align="center">A passionate student learning how to code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nblancs" alt="nblancs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nblancs&theme=onedark" alt="nblancs" /></a> </p>
 
 - 📫 How to reach me **blanco.noeljhumel1@gmail.com**
 
