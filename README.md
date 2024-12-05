@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nblancs&theme=onedark" alt="nblancs" /></a> </p>
 
-- 📫 How to reach me **blanco.noeljhumel1@gmail.com**
+- 📫 How to reach me **blanco.noeljhumel1@gmail.com | noeljhumel.blanco@1.ustp.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
