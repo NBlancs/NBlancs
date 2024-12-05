@@ -4,7 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nblancs&theme=onedark" alt="nblancs" /></a> </p>
 
 - 📫 How to reach me **blanco.noeljhumel1@gmail.com | noeljhumel.blanco@1.ustp.edu.ph**
-
+  
+![](https://komarev.com/ghpvc/?username=NBlancs&color=red&style=for-the-badge)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/noel-jhumel-blanco-14217826a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/noel-jhumel-blanco-14217826a" height="30" width="40" /></a>
