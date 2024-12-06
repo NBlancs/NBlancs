@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=NBlancs&color=red&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/noel-jhumel-blanco-14217826a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -75,12 +75,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nblancs&show_icons=true&locale=en&layout=compact&theme=onedark" alt="nblancs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nblancs&theme=onedark&show_icons=true&locale=en" alt="nblancs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nblancs&theme=onedark" alt="nblancs" />
-</p>
+<div align="center">
+  <h3 align="center">🏆 Additional Stats:</h3>
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nblancs&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="180em"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nblancs&theme=onedark&show_icons=true&locale=en" alt="Github Stats" height="180em"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nblancs&theme=onedark" alt="Streak Stats" height="180em"/>
+</div>
+
+
