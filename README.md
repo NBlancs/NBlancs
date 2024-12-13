@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Noel Jhumel Blanco</h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e6e23115-0a2b-4a5c-abdc-08456d9449de" alt="intro">
+</div>
+
+
 <h3 align="center">A passionate student learning how to code</h3>
 
 <div align="center">
