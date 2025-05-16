@@ -84,7 +84,28 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next.js" width="40" height="40" />
+  </a>
 </p>
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Firebase" width="40" height="40" />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://companieslogo.com/img/orig/supabase-554aca1c.png?t=1720244494" alt="Supabase" width="40" height="40" />
+  </a>
+  <a href="https://pocketbase.io/" target="_blank" rel="noreferrer">
+    <img src="https://i.pinimg.com/originals/dc/fa/74/dcfa7492d23f14dc5600e7489be5cab2.png" alt="PocketBase" width="40" height="40" />
+  </a>
+</p>
+
 
 <div align="center">
   <h3 align="center">🏆 Additional Stats:</h3>
