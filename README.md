@@ -95,6 +95,9 @@
   </a>
 </p>
 <p align="center">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite" width="40" height="40" />
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Firebase" width="40" height="40" />
   </a>
