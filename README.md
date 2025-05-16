@@ -25,6 +25,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NBlancs&color=red&style=for-the-badge" alt="Profile views" />
+  <a href="https://monkeytype.com/profile/nblancs" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.monkeytype.com%2Fusers%2Fnblancs%2Fprofile%3FisUid%3Dfalse&query=data.personalBests.time.%2215%22.%5B0%5D.wpm&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=e0b114"/></a>
+<a href="https://nblancs.github.io/matrix-inspired-website-portfolio/">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fnblancs.github.io%2Fmatrix-inspired-website-portfolio&style=for-the-badge&logo=html5&label=portfolio%20website"/>
+</a>
+
+
 </p>
 
 <h3 align="center">🔗 Connect with me:</h3>
@@ -82,8 +88,6 @@
 
 <div align="center">
   <h3 align="center">🏆 Additional Stats:</h3>
-  <a href="https://monkeytype.com/profile/nblancs" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.monkeytype.com%2Fusers%2Fnblancs%2Fprofile%3FisUid%3Dfalse&query=data.personalBests.time.%2215%22.%5B0%5D.wpm&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=e0b114"/></a>
-
 </div>
 
 <div align="center">
