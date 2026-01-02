@@ -122,7 +122,7 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nblancs&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
   <img align="center" src="https://my-readme-stats-seven-nu.vercel.app/api/top-langs?username=nblancs&show_icons=true&locale=en&layout=compact&theme=transparent&v=1" alt="Top Languages" height="180em"/>  
   <img align="center" src="https://my-readme-stats-seven-nu.vercel.app/api?username=nblancs&theme=transparent&show_icons=true&locale=en&hide=contribs,prs&v=1" alt="Github Stats" height="180em"/>  
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nblancs&theme=transparent" alt="Streak Stats" height="180em"/> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nblancs&theme=transparent" alt="Streak Stats" height="180em"/>
 </div>
 
 
