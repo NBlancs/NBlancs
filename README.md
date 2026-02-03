@@ -18,6 +18,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nblancs&row=2&column=4&theme=algolia" alt="nblancs" />
   </a>
 </p>
+<p align="center">
+  <a href="https://user-badge.committers.top/philippines/NBlancs">
+    <img src="https://user-badge.committers.top/philippines/NBlancs.svg" alt="Top Committers Badge" />
+  </a>
+</p>
 
 <p align="center">
   📫 How to reach me: <a href="mailto:blanco.noeljhumel1@gmail.com">blanco.noeljhumel1@gmail.com</a> | <a href="mailto:noeljhumel.blanco@1.ustp.edu.ph">noeljhumel.blanco@1.ustp.edu.ph</a>
