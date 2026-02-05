@@ -15,9 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nblancs&row=2&column=4&theme=algolia" alt="nblancs" />
+    <img src="https://trophy.ryglcloud.net/?username=nblancs&row=2&column=4&theme=algolia" alt="nblancs" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://user-badge.committers.top/philippines/NBlancs">
     <img src="https://user-badge.committers.top/philippines/NBlancs.svg" alt="Top Committers Badge" />
