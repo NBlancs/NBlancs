@@ -13,11 +13,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Developer;Information+Technology+Student;Currently+Learning+Neovim+%26+Arch" alt="Typing SVG" /></a>
 </div>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=nblancs&row=2&column=4&theme=algolia" alt="nblancs" />
+    <img src="https://github-trophies.vercel.app/?username=nblancs&row=2&column=4&theme=algolia" alt="nblancs" />
   </a>
-</p> -->
+</p> 
 
 <p align="center">
   <a href="https://user-badge.committers.top/philippines/NBlancs">
