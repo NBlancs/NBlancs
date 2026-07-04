@@ -8,9 +8,6 @@
 
 </div>
 
-
-<h3 align="center">A passionate student learning how to code</h3>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Developer;Information+Technology+Student;Currently+Learning+Neovim+%26+Arch" alt="Typing SVG" /></a>
