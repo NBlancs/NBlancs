@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img src="typography.gif" height="400px" alt="typography">
+  <img src="typography.gif" height="300px" alt="typography">
   <img src="https://github.com/user-attachments/assets/e6e23115-0a2b-4a5c-abdc-08456d9449de" alt="intro">
-  <img src="typography.gif" height="400px" alt="typography">
+  <img src="typography.gif" height="300px" alt="typography">
 
 </div>
 
