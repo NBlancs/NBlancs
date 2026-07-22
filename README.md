@@ -2,7 +2,12 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e6e23115-0a2b-4a5c-abdc-08456d9449de" alt="intro">
+  <a href="https://github.com/NBlancs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+      <img alt="NBlancs Profile ASCII Card" src="./light.svg" width="100%" />
+    </picture>
+  </a>
 </div>
 
 
